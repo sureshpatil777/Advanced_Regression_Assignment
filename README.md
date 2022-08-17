@@ -29,16 +29,16 @@ It also compares the model coefficients for Ridge and Lasso regression and ident
 - R2 score for train data for Lasso = 0.891965
 - R2 score for test data for Lasso = 0.897623
 - Top 10 features are :
-	OverallQual	  : overall material and finish of the house
-	GrLivArea : Above grade (ground) living area square feet	
-	TotalBsmtSF	  : Total square feet of basement area
-	OverallCond : overall condition of the house
-	GarageCars : Size of garage in car capacity
-	LotArea : Lot size in square feet
-	MSZoning_FV : Floating Village Residential
-	MSZoning_RL : Residential Low Density	
-	RoofMatl_WdShngl  : Wood Shingles	
-	RoofMatl_CompShg : Standard (Composite) Shingle
+	- OverallQual	  : overall material and finish of the house
+	- GrLivArea : Above grade (ground) living area square feet	
+	- TotalBsmtSF	  : Total square feet of basement area
+	- OverallCond : overall condition of the house
+	- GarageCars : Size of garage in car capacity
+	- LotArea : Lot size in square feet
+	- MSZoning_FV : Floating Village Residential
+	- MSZoning_RL : Residential Low Density	
+	- RoofMatl_WdShngl  : Wood Shingles	
+	- RoofMatl_CompShg : Standard (Composite) Shingle
   
 
 
