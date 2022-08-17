@@ -23,7 +23,7 @@ It also compares the model coefficients for Ridge and Lasso regression and ident
 
 
 ## Conclusions
-- Optimal value of alpha for: Ridge = 0.1 and Lasso = 0.0001
+- Optimal value of alpha for: Ridge = 1 and Lasso = 0.0001
 - R2 score for train data for Ridge = 0.896550
 - R2 score for test data for Ridge = 0.898744
 - R2 score for train data for Lasso = 0.891965
